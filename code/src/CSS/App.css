@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+  background-color: #000000;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+body{
+  background-color: #000000;
+}
+.Conteudo-caixas{
+  background-color: #000000;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Quadrado1, 
+.Quadrado2,
+.Quadrado3{
+  border-style: Solid;
+  border-width: 2px;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+.QuadradoCompleto{
+  align-items:Center;
+  text-align: center;
+  color: rgb(231, 221, 221);
+  width:500px;
+  height:400px;
+  opacity: 0.3;
+  transition: opacity 1.4s;
+}
+.QuadradoCompleto:hover{
+  opacity: 1;
+}
+.DisplayTexto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20px;
+}
+
+.TextoFilmes{
+  width: 80%;
+  word-break: normal;
+  align-items: center;
+  text-align: center;
+}
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 2.2s;
+}
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.TextoTitulo{
+  color: white;
+  font-size: 32px;
+  
+}
+
+
