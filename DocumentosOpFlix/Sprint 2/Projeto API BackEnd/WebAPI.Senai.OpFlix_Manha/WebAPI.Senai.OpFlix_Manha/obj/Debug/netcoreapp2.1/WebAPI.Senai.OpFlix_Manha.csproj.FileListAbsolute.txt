@@ -1,0 +1,28 @@
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.deps.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.runtimeconfig.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.dll
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.pdb
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.dll
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.pdb
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.deps.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.runtimeconfig.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.dll
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\bin\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.pdb
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.dll
+C:\Users\45579480814\Desktop\DocumentosOpFlix\Sprint 2\Projeto API BackEnd\WebAPI.Senai.OpFlix_Manha\WebAPI.Senai.OpFlix_Manha\obj\Debug\netcoreapp2.1\WebAPI.Senai.OpFlix_Manha.pdb
