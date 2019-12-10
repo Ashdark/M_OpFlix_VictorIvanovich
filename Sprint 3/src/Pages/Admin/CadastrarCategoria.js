@@ -10,7 +10,7 @@ export default class CadastrarCategoria extends Component{
     }
     cadastrar=(event)=>{
         event.preventDefault();
-        Axios.post("http://localhost:5000/api/Categorias",{
+        Axios.post("http://192.168.4.200:5000/api/Categorias",{
             nomeCat: this.state.nomeCat
         },{
             headers: {

@@ -12,6 +12,7 @@ import Series from '../src/Pages/Series';
 import CadastrarCategoria from '../src/Pages/Admin/CadastrarCategoria'
 import CadastrarUsuario from '../src/Pages/Admin/CadastrarUser';
 import CadastrarSF from '../src/Pages/Admin/CadastrarSF';
+import Mapa from '../src/Pages/Mapa';
 
 const RotaPrivada = ({component: Component}) =>(
     <Route
@@ -36,6 +37,7 @@ const routing = (
                 <RotaPrivada path ='/IndexLogado' component={IndexLogado}></RotaPrivada>
                 <RotaPrivada path ='/Filmes' component={Filmes}></RotaPrivada>
                 <RotaPrivada path ='/Series' component={Series}></RotaPrivada>
+                <RotaPrivada path='/Mapa' component={Mapa}></RotaPrivada>
                 <RotaPrivada path ='/CadastrarCategoria' component={CadastrarCategoria}></RotaPrivada>
                 <RotaPrivada path ='/CadastrarUsuario' component={CadastrarUsuario}></RotaPrivada>
                 <RotaPrivada path ='/CadastrarSF' component={CadastrarSF}></RotaPrivada>

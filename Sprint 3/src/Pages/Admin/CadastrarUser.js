@@ -13,7 +13,7 @@ export default class CadastrarUsuario extends Component{
     }
     cadastrar=(event)=>{
         event.preventDefault();
-        Axios.post("http://localhost:5000/api/Usuarios",{
+        Axios.post("http://192.168.4.200:5000/api/Usuarios",{
             nome: this.state.nome,
             senha: this.state.senha,
             email: this.state.email,

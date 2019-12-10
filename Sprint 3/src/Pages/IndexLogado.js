@@ -41,6 +41,7 @@ deslogar=()=>{
     {(this.state.permissao == 1) ? (<li><a href="#">Sobre(Em breve)</a></li>) : ""}
     {(this.state.permissao == 1) ? (<li><a href="#">Informações(Em breve)</a></li>) : ""}
     {(this.state.permissao == 1) ? (<li><a href="#">FAQ(Em breve)</a></li>) : ""}
+    {(this.state.permissao == 1) ? (<li><a href="/Mapa">Mapa</a></li>) : ""}
     {(this.state.permissao == 2) ? (<li><a href="/CadastrarCategoria">CadastrarCategoria</a></li>) : ""}
     {(this.state.permissao == 2) ? (<li><a href="/CadastrarUsuario">CadastrarUser</a></li>) : ""}
     {(this.state.permissao == 2) ? (<li><a href="/CadastrarSF">CadastrarSF</a></li>) : ""}

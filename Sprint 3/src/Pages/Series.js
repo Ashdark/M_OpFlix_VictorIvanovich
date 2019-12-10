@@ -12,14 +12,14 @@ export default class Series extends Component{
         }
     }
     componentDidMount(){
-        Axios('http://localhost:5000/api/Lancamentos',{
+        Axios('http://192.168.4.200:5000/api/Lancamentos',{
             headers : {'Authorization' : "Bearer " + sessionStorage.getItem("opflix_user")}
         })
         .then(data => this.setState({ lista: data.data}));
-        Axios('http://localhost:5000/api/Categorias',{
+        Axios('http://192.168.4.200:5000/api/Categorias',{
             headers : {'Authorization' : "Bearer " + sessionStorage.getItem("opflix_user"), 'Content-Type' : 'application/json'}
         }).then(data => this.setState({listaG : data.data}))
-        Axios('http://localhost:5000/api/Plataformas',{
+        Axios('http://192.168.4.200:5000/api/Plataformas',{
             headers : {'Authorization' : "Bearer " + sessionStorage.getItem("opflix_user")}
         }).then(data => this.setState({listaP : data.data}))
 

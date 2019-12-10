@@ -19,12 +19,12 @@ export default class CadastrarSF extends Component{
         }
     }
     componentDidMount(){
-        Axios.get("http://localhost:5000/api/Categorias",{
+        Axios.get("http://192.168.4.200:5000/api/Categorias",{
             headers: {
                 "Authorization" : "Bearer " + sessionStorage.getItem("opflix_user")
             }
         }).then(data => this.setState({listaG : data.data}));
-        Axios.get("http://localhost:5000/api/Plataformas",{
+        Axios.get("http://192.168.4.200:5000/api/Plataformas",{
             headers: {
                 "Authorization" : "Bearer " + sessionStorage.getItem("opflix_user")
             }
@@ -32,7 +32,7 @@ export default class CadastrarSF extends Component{
     }
     cadastrar=(event)=>{
         event.preventDefault();
-        Axios.post("http://localhost:5000/api/Lancamentos",{
+        Axios.post("http://192.168.4.200:5000/api/Lancamentos",{
             titulo: this.state.titulo,
             dataLancamento: this.state.dataLancamento,
             idTipo: Number(this.state.idTipo),
